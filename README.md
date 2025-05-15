@@ -18,15 +18,6 @@ This software is part of a broader project that includes:
 - Average amplitude calculation
 - Functional programming example using clean separation and reusable logic
 
-## 📂 Folder Structure
-
-```
-software/
-├── SimpleAudioGraph.java       # Main Java class for GUI & signal logic
-├── UML_Diagram.png             # Class diagram (optional)
-├── Code_Snippets.txt           # Optional extracted code examples
-```
-
 ## 🛠 Requirements
 
 - Java JDK 8 or higher
@@ -44,15 +35,6 @@ The main method simulates an audio signal and displays:
 - Estimated heart rate
 - Average amplitude
 - Waveform panel in GUI
-
-## 👨‍💻 Contributors
-
-| Name              | Department             | Role                     |
-|-------------------|-------------------------|--------------------------|
-| Your Name         | Computer Engineering    | Monitoring software dev. |
-| ...               | Biomedical Engineering  | Stethoscope design       |
-| ...               | Electrical Engineering  | Signal conditioning      |
-| ...               | Software Engineering    | Functional programming   |
 
 ## 📄 License
 
